@@ -1,6 +1,11 @@
-# Calorie Detector App
+# Calorie Detector App - Bitebuddy
 
-Welcome to the **Calorie Detector App**! This Flutter app uses Google Gemini AI to analyze food images and provide detailed nutritional information, including calorie count, protein, carbs, and fat content. With its user-friendly design and seamless AI integration, this app helps you track your meals and maintain your health goals effortlessly.
+
+Welcome to the **BiteBuddy App**! This Flutter app uses Google Gemini AI to analyze food images and provide detailed nutritional information, including calorie count, protein, carbs, and fat content. With its user-friendly design and seamless AI integration, this app helps you track your meals and maintain your health goals effortlessly.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aef9399e-bd98-4778-9bc0-cdfd773e555a" alt="Logo" width="200"/>
+</div>
 
 ---
 
